@@ -101,7 +101,7 @@ if __name__ == '__main__':
     postcode = ''                   # Enter your postcode
     centre_num = 'centre-name-xxx'  # Enter center number to be monitored
 
-    driver_path = 'chromedriver'    # Path to chromedriver to be used
+    driver_path = 'chromedriver_x'    # Name of Chromedriver to be used
     check_every = 1                 # Specifies number of minutes between start of next check
 
     bot_token = '' # Enter your Telegram bot token
