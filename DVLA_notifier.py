@@ -101,7 +101,7 @@ if __name__ == '__main__':
     postcode = ''                   # Enter your postcode
     centre_num = 'centre-name-xxx'  # Enter center number to be monitored
 
-    driver_path = '/Users/kondzio/Desktop/notification test/chromedriver' # Path to chromedriver to be used
+    driver_path = 'chromedriver' # Path to chromedriver to be used
     check_every = 1                 # Specifies number of minutes between start of next check
 
     bot_token = '1136006997:AAFhgzyqymSs59z1DV7jf1j2dmiCM51CH7s' # Telegram bot token
