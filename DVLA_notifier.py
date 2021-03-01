@@ -101,11 +101,11 @@ if __name__ == '__main__':
     postcode = ''                   # Enter your postcode
     centre_num = 'centre-name-xxx'  # Enter center number to be monitored
 
-    driver_path = 'chromedriver' # Path to chromedriver to be used
+    driver_path = 'chromedriver'    # Path to chromedriver to be used
     check_every = 1                 # Specifies number of minutes between start of next check
 
-    bot_token = '1136006997:AAFhgzyqymSs59z1DV7jf1j2dmiCM51CH7s' # Telegram bot token
-    bot_chatID = '1297686015'                                    # Telegram bot chatID
+    bot_token = '' # Enter your Telegram bot token
+    bot_chatID = ''# Enter your Telegram bot chatID
 
     today = date.today()
     today = today.strftime("%d/%m/%Y")
